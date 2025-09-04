@@ -1,0 +1,8 @@
+.banner {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Zu5rIDJUuMWFwl05ughqtus3snPjjgZkm9L6A-qp5jojCG6eP9py1eddx2p1vfa7u4c&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    color: #fff;
+}
